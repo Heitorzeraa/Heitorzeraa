@@ -2,7 +2,7 @@
 
 **`Cloud Engineer`**
 
-Me chamo Heitor Fonseca Amorim dos Santos, tenho 20 anos e sou natural do São José dos Campos. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNIP. Sou apaixonada por tecnologia e estou me especializando em AWS, Docker, GitHub Actions, Linux e Segurança na Nuvem, com foco em automação, CI/CD e infraestrutura como código.
+Me chamo Heitor Fonseca Amorim dos Santos, tenho 20 anos e sou natural do São José dos Campos. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNIP. Sou apaixonado por tecnologia e estou me especializando em AWS, Docker, GitHub Actions, Linux e Segurança na Nuvem, com foco em automação, CI/CD e infraestrutura como código.
 
 
 ---
