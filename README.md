@@ -88,22 +88,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-origina
 <br/>
 <br/>
 
-### 📊 Estatísticas
 
-
-<img 
-align="left" 
-alt="GitHub Stats"
- height="200" 
-style="padding-right: 10px;"
-src="https://github-readme-stats.vercel.app/api?username=Heitorzeraa&show_icons=true&theme=tokyonight" />
-
-<img 
-align="left" 
-alt="GitHub Stats"
- height="200" 
-style="padding-right: 10px;"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Heitorzeraa&theme=tokyonight&layout=compact&custom_title=Technologies&langs_count=3" />
 
 
 
