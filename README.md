@@ -2,7 +2,7 @@
 
 **`Future Pentester`**
 
-Me chamo Heitor Fonseca Amorim dos Santos, tenho 21 anos. Atualmente, estou cursando Segurança Cibernética na FIAP. Focado em Cibersegurança ofensiva e defensiva, com estudos em Linux, análise de vulnerabilidades, monitoramento de segurança e proteção de sistemas e redes.
+Me chamo Heitor Santos, tenho 21 anos. Atualmente, estou cursando Segurança Cibernética na FIAP. Focado em Cibersegurança ofensiva e defensiva, com estudos em Linux, análise de vulnerabilidades, monitoramento de segurança e proteção de sistemas e redes.
 
 
 ---
